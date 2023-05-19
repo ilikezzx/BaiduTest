@@ -1,0 +1,10 @@
+.idea
+build/
+dist/
+ppyoloe.egg-info/
+log/
+dataset/
+pretrained_models/
+models/
+test.py
+bbox_*.json
